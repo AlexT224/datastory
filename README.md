@@ -6,7 +6,7 @@
 
 ## Examples of Links
 
-A link to my [data](https://github.com/umd-mith/datastory/raw/master/data/queertwarcresults.csv)
+A link to my [data](https://github.com/AlexT224/datastory/raw/master/data/queertwarcresults.csv)
 
 ![chart](https://github.com/umd-mith/datastory/raw/master/images/chart.png)
 
